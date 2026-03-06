@@ -1,0 +1,40 @@
+{
+  "AI News": {
+    "autoUrl": "https://techcrunch.com/wp-content/uploads/2026/03/5.4-Thinking_Hero-SEO.png?resize=1200,675",
+    "topStory": {
+      "title": "OpenAI Launches GPT-5.4 with Pro and Thinking Variants \u2014 1M Token Context, Native Computer Use, Record Benchmarks",
+      "url": "https://techcrunch.com/2026/03/05/openai-launches-gpt-5-4-with-pro-and-thinking-versions/"
+    },
+    "options": {
+      "og": "https://techcrunch.com/wp-content/uploads/2026/03/5.4-Thinking_Hero-SEO.png?resize=1200,675",
+      "recommended": [
+        "https://image.cnbcfm.com/api/v1/image/108236160-1772735114407-108236160-1764789658120-gettyimages-2249797033-mms21052_jel7caql.jpeg?v=1772747128&w=1920&h=1080",
+        "https://techcrunch.com/wp-content/uploads/2026/03/macbook-neo-color-unselect-202603-gallery-1.webp?resize=1200,769",
+        "https://techcrunch.com/wp-content/uploads/2026/03/alibaba-qwen-ai.jpg?resize=1200,800"
+      ],
+      "memes": [
+        "https://images.unsplash.com/photo-1697577418970-95d99b5a55cf?w=1080&q=80&fm=jpg&fit=crop",
+        "https://images.unsplash.com/photo-1516110833967-0b5716ca1387?w=1080&q=80&fm=jpg&fit=crop",
+        "https://images.unsplash.com/photo-1694903089438-bf28d4697d9a?w=1080&q=80&fm=jpg&fit=crop"
+      ]
+    }
+  },
+  "Cyber Intel": {
+    "autoUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfbbcxvw46Df6wZJpHzgD3wrBSTcFyJLQEYVSpnUYNF2U92TTfAilNI6bijzKSHSiHb_XiQgw_V9Rn5HBEoUjx-pGg9fVLh07C7gebKC80qyqTUD0HvHbiquEkIvxjs9n6MuQH5QHp_Sf9nw_NIJRg8Ffi8N_1exLScK5EMuP99dwof4p4aCvRIqlv8zwV/s1600/cyberattacks.jpg",
+    "topStory": {
+      "title": "CyberStrikeAI: Open-Source AI Attack Platform Linked to 600+ FortiGate Compromises Across 55 Countries",
+      "url": "https://thehackernews.com/2026/03/open-source-cyberstrikeai-deployed-in.html"
+    },
+    "options": {
+      "og": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfbbcxvw46Df6wZJpHzgD3wrBSTcFyJLQEYVSpnUYNF2U92TTfAilNI6bijzKSHSiHb_XiQgw_V9Rn5HBEoUjx-pGg9fVLh07C7gebKC80qyqTUD0HvHbiquEkIvxjs9n6MuQH5QHp_Sf9nw_NIJRg8Ffi8N_1exLScK5EMuP99dwof4p4aCvRIqlv8zwV/s1600/cyberattacks.jpg",
+      "recommended": [
+        "https://www.securityweek.com/wp-content/uploads/2026/03/LexisNexis.jpeg"
+      ],
+      "memes": [
+        "https://images.unsplash.com/photo-1691435828932-911a7801adfb?w=1080&q=80&fm=jpg&fit=crop",
+        "https://images.unsplash.com/photo-1760199789455-49098afd02f0?w=1080&q=80&fm=jpg&fit=crop",
+        "https://images.unsplash.com/photo-1768224656445-33d078c250b7?w=1080&q=80&fm=jpg&fit=crop"
+      ]
+    }
+  }
+}
