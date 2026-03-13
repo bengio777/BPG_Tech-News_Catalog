@@ -1,0 +1,32 @@
+{
+  "AI News": {
+    "autoUrl": "https://www.anthropic.com/images/news/claude-partner-network-og.jpg",
+    "options": {
+      "og": "https://www.anthropic.com/images/news/claude-partner-network-og.jpg",
+      "recommended": [
+        "https://www.anthropic.com/images/news/claude-partner-network-og.jpg"
+      ],
+      "memes": []
+    }
+  },
+  "AI Breakthroughs & Viral": {
+    "autoUrl": "https://research.checkpoint.com/wp-content/uploads/2026/02/claude-code-attack-surface.jpg",
+    "options": {
+      "og": "https://research.checkpoint.com/wp-content/uploads/2026/02/claude-code-attack-surface.jpg",
+      "recommended": [
+        "https://research.checkpoint.com/wp-content/uploads/2026/02/claude-code-attack-surface.jpg"
+      ],
+      "memes": []
+    }
+  },
+  "Cyber Intel": {
+    "autoUrl": "https://krebsonsecurity.com/wp-content/uploads/2026/03/stryker-handala-wiper.jpg",
+    "options": {
+      "og": "https://krebsonsecurity.com/wp-content/uploads/2026/03/stryker-handala-wiper.jpg",
+      "recommended": [
+        "https://krebsonsecurity.com/wp-content/uploads/2026/03/stryker-handala-wiper.jpg"
+      ],
+      "memes": []
+    }
+  }
+}
