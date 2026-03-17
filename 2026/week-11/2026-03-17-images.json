@@ -1,0 +1,115 @@
+{
+  "date": "2026-03-17",
+  "stories": [
+    {
+      "title": "Nvidia GTC 2026: Jensen Huang Unveils Vera Rubin Platform, DGX Station, and Robotaxi Expansion",
+      "url": "https://blogs.nvidia.com/blog/gtc-2026-news/",
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/03/26gtc-sj-preshow-various-_MF92538_sized-scaled.jpg"
+    },
+    {
+      "title": "GitHub Copilot Agent Mode with MCP Rolls Out to All VS Code Users",
+      "url": "https://www.microsoft.com/en-us/microsoft-copilot/blog/tag/news/",
+      "image": ""
+    },
+    {
+      "title": "Anthropic Launches The Anthropic Institute for AI Safety and Policy Research",
+      "url": "https://www.anthropic.com/news",
+      "image": ""
+    },
+    {
+      "title": "Microsoft Copilot Cowork Enters Research Preview, Frontier Launch Set for Late March",
+      "url": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/03/09/copilot-cowork-a-new-way-of-getting-work-done/",
+      "image": ""
+    },
+    {
+      "title": "OpenAI Restructures Infrastructure Leadership Toward Hybrid Compute Strategy",
+      "url": "https://techstartups.com/2026/03/16/top-tech-news-today-march-16-2026/",
+      "image": ""
+    },
+    {
+      "title": "Alibaba Deepens Enterprise Agentic AI Push With Qwen-Based Business Tools",
+      "url": "https://techstartups.com/2026/03/16/top-tech-news-today-march-16-2026/",
+      "image": ""
+    },
+    {
+      "title": "Leanstral: Mistral Releases Open-Source Agent for Formal Proof Engineering and Trustworthy Coding",
+      "url": "https://mistral.ai",
+      "image": ""
+    },
+    {
+      "title": "AI Data Center Memory Demand Triggers Consumer DRAM Shortage (RAMageddon)",
+      "url": "https://techstartups.com/2026/03/16/top-tech-news-today-march-16-2026/",
+      "image": ""
+    },
+    {
+      "title": "Nuclear Energy Softens Opposition From Big Tech as AI Power Demand Grows",
+      "url": "https://techstartups.com/2026/03/16/top-tech-news-today-march-16-2026/",
+      "image": ""
+    },
+    {
+      "title": "DayOne Data Centers Files Confidential U.S. IPO, Signaling AI Infrastructure as Capital Market Category",
+      "url": "https://techstartups.com/2026/03/16/top-tech-news-today-march-16-2026/",
+      "image": ""
+    },
+    {
+      "title": "Microsoft Confirms Gaming Copilot AI Assistant for Xbox Series X and S in 2026",
+      "url": "https://gaminghq.eu/2026/03/15/microsoft-gaming-copilot-xbox-2026/",
+      "image": ""
+    },
+    {
+      "title": "Stop Sloppypasta: Community Tool Targets Low-Quality AI-Generated Content Proliferation",
+      "url": "https://stopsloppypasta.ai",
+      "image": ""
+    },
+    {
+      "title": "Meta's jemalloc Memory Allocator Gets Renewed Engineering Investment",
+      "url": "https://engineering.fb.com",
+      "image": ""
+    },
+    {
+      "title": "Nvidia, Google DeepMind, and EMBL Add 1.7 Million Protein Complexes to AlphaFold Database at 100x Speed",
+      "url": "https://blogs.nvidia.com/blog/gtc-2026-news/",
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/03/26gtc-sj-preshow-various-_MF92538_sized-scaled.jpg"
+    },
+    {
+      "title": "Nvidia Launches Healthcare Physical AI Stack: Cosmos-H, GR00T-H, and Rheo Blueprint",
+      "url": "https://blogs.nvidia.com/blog/gtc-2026-news/",
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/03/26gtc-sj-preshow-various-_MF92538_sized-scaled.jpg"
+    },
+    {
+      "title": "Nvidia Space-1 Vera Rubin Extends AI Data Centers Into Orbit",
+      "url": "https://blogs.nvidia.com/blog/gtc-2026-news/",
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/03/26gtc-sj-preshow-various-_MF92538_sized-scaled.jpg"
+    },
+    {
+      "title": "67% of CISOs Have No Visibility Into AI System Usage Across Their Organizations",
+      "url": "https://thehackernews.com/2026/03/ai-is-everywhere-but-cisos-are-still.html",
+      "image": ""
+    },
+    {
+      "title": "North Korean Operatives Expand AI-Assisted Remote Worker Infiltration to European Companies",
+      "url": "https://techstartups.com/2026/03/16/top-tech-news-today-march-16-2026/",
+      "image": ""
+    },
+    {
+      "title": "South Korean National Tax Service Accidentally Posts Cryptocurrency Wallet Seed Phrase, $4.4M Stolen",
+      "url": "https://www.schneier.com/blog/archives/2026/03/south-korean-police-accidentally-post-cryptocurrency-wallet-password.html",
+      "image": ""
+    },
+    {
+      "title": "CISA Adds Wing FTP Server Information Disclosure Flaw to Known Exploited Vulnerabilities Catalog",
+      "url": "https://www.cisa.gov/known-exploited-vulnerabilities",
+      "image": ""
+    },
+    {
+      "title": "SANS ISC: Attackers Use IPv4-Mapped IPv6 Addresses to Bypass Proxy Scan Filters",
+      "url": "https://isc.sans.edu/diary/rss/32804",
+      "image": ""
+    },
+    {
+      "title": "Possible New Quantum Factorization Result Could Accelerate Timeline for RSA Vulnerability",
+      "url": "https://www.schneier.com/blog/archives/2026/03/possible-new-result-in-quantum-factorization.html",
+      "image": ""
+    }
+  ]
+}
