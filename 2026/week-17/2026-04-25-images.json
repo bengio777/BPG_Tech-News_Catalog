@@ -1,0 +1,38 @@
+{
+  "AI News": {
+    "autoUrl": null,
+    "topStory": {
+      "title": "OpenAI Releases GPT-5.5 “Spud” — Smarter, Token-Efficient, and Built for Agentic Work",
+      "url": "https://openai.com/index/introducing-gpt-5-5/"
+    },
+    "options": {
+      "og": null,
+      "recommended": [],
+      "memes": []
+    }
+  },
+  "AI Breakthroughs & Viral": {
+    "autoUrl": null,
+    "topStory": {
+      "title": "Google Open-Sources Gemini CLI — Terminal AI Agent with ReAct Loop, MCP Support, and 1M-Token Context",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-cli-open-source-ai-agent/"
+    },
+    "options": {
+      "og": null,
+      "recommended": [],
+      "memes": []
+    }
+  },
+  "Cyber Intel": {
+    "autoUrl": null,
+    "topStory": {
+      "title": "Cisco Source Code Stolen After TeamPCP Backdoors Trivy GitHub Action Across 76 Version Tags",
+      "url": "https://www.bleepingcomputer.com/news/security/cisco-source-code-stolen-in-trivy-linked-dev-environment-breach/"
+    },
+    "options": {
+      "og": null,
+      "recommended": [],
+      "memes": []
+    }
+  }
+}
