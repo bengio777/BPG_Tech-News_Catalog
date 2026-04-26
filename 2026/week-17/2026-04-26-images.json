@@ -1,0 +1,26 @@
+{
+  "AI News": {
+    "autoUrl": "https://media.thenextweb.com/2026/04/DeepSeek.avif",
+    "options": {
+      "og": "https://media.thenextweb.com/2026/04/DeepSeek.avif",
+      "recommended": [],
+      "memes": []
+    }
+  },
+  "AI Breakthroughs & Viral": {
+    "autoUrl": "https://blog.mozilla.org/wp-content/blogs.dir/278/files/2026/04/Cursor_Orange_1920x1080-1024x576.jpeg",
+    "options": {
+      "og": "https://blog.mozilla.org/wp-content/blogs.dir/278/files/2026/04/Cursor_Orange_1920x1080-1024x576.jpeg",
+      "recommended": [],
+      "memes": []
+    }
+  },
+  "Cyber Intel": {
+    "autoUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8iikjICH9h-OY06K3jZBcEcwtWEuusLcRgwG1T5SvE39V2ZfqSe7Z7N3NFXzfxgYicI_yo8bUPMJMgdmW38AuWgFEWKNBTxgqQJAgpwZUOS926Ue1qCGUW7ou2wStgU-vRsle4Ky8pcp2I2mT_Sm3eyUw__JZaO-BrBZ80z3Zhvx/s1700-e365/apple-signal.jpg",
+    "options": {
+      "og": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8iikjICH9h-OY06K3jZBcEcwtWEuusLcRgwG1T5SvE39V2ZfqSe7Z7N3NFXzfxgYicI_yo8bUPMJMgdmW38AuWgFEWKNBTxgqQJAgpwZUOS926Ue1qCGUW7ou2wStgU-vRsle4Ky8pcp2I2mT_Sm3eyUw__JZaO-BrBZ80z3Zhvx/s1700-e365/apple-signal.jpg",
+      "recommended": [],
+      "memes": []
+    }
+  }
+}
