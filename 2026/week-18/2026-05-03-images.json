@@ -1,0 +1,26 @@
+{
+  "AI News": {
+    "autoUrl": null,
+    "topStory": {
+      "title": "Meta Acquires Humanoid Robotics Startup Assured Robot Intelligence",
+      "url": "https://techcrunch.com/2026/05/01/meta-buys-robotics-startup-to-bolster-its-humanoid-ai-ambitions/"
+    },
+    "options": {
+      "og": null,
+      "recommended": [],
+      "memes": []
+    }
+  },
+  "Cyber Intel": {
+    "autoUrl": null,
+    "topStory": {
+      "title": "CVE-2026-32202: Windows NTLM Zero-Click Hash Leak Added to CISA KEV — Federal Patch Deadline May 12",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-windows-flaw-exploited-in-zero-day-attacks/"
+    },
+    "options": {
+      "og": null,
+      "recommended": [],
+      "memes": []
+    }
+  }
+}
